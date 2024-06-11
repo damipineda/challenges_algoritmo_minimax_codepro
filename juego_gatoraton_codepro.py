@@ -1,6 +1,6 @@
 import random #Se importa random para generar movimientos aleatorios
 import time #importamos time
-#Definicion de tabler
+#Definicion de tablero
 tablero_medida = 5 #Medida del tablero
 tablero = [['.'] * tablero_medida for _ in range(tablero_medida) ] #Creacion del tablero
 #Posiciones
